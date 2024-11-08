@@ -1,0 +1,66 @@
+body {
+    background-color: #00baff;
+}
+
+.type1 {
+    font-family: "Roboto", serif;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 32px;
+}
+
+.type2 {
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: x-large;
+}
+
+.type3 {
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: 3px;
+}
+
+.type4 {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: x-large;
+}
+
+.type5 {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.type6 {
+    font-family: "Faculty Glyphic", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.type7 {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.type8 {
+    font-family: "Oxygen", sans-serif;
+    font-style: normal;
+    font-weight: bolder;
+}
+
+.type9 {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+.type10 {
+    text-align: center;
+}
